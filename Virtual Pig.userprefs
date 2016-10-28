@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Assets/Script/WeatherController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/FoodCreator.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/StateMachine.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/WalkPointController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Pig.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/PigAnimator.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/PigController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Detector.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/FlashLight.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/PigCreator.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F2087977-5872-A14E-EF2B-F628A4296820}") = "Virtual Pig", "Assembly-CSharp-firstpass.csproj", "{25CB9BDC-DB27-0983-43B4-AAB7ED7447B6}"
+EndProject
+Project("{F2087977-5872-A14E-EF2B-F628A4296820}") = "Virtual Pig", "Assembly-CSharp.csproj", "{99DA2906-CBE6-17D5-9191-C208A070E464}"
+EndProject
+Project("{F2087977-5872-A14E-EF2B-F628A4296820}") = "Virtual Pig", "Assembly-CSharp-Editor.csproj", "{D9CEC5BE-AD27-8C74-7E38-3C7EA24B34C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25CB9BDC-DB27-0983-43B4-AAB7ED7447B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25CB9BDC-DB27-0983-43B4-AAB7ED7447B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25CB9BDC-DB27-0983-43B4-AAB7ED7447B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25CB9BDC-DB27-0983-43B4-AAB7ED7447B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99DA2906-CBE6-17D5-9191-C208A070E464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99DA2906-CBE6-17D5-9191-C208A070E464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99DA2906-CBE6-17D5-9191-C208A070E464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99DA2906-CBE6-17D5-9191-C208A070E464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9CEC5BE-AD27-8C74-7E38-3C7EA24B34C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9CEC5BE-AD27-8C74-7E38-3C7EA24B34C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9CEC5BE-AD27-8C74-7E38-3C7EA24B34C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9CEC5BE-AD27-8C74-7E38-3C7EA24B34C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
